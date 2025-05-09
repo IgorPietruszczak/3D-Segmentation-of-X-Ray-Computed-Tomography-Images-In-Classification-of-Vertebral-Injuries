@@ -1,0 +1,1 @@
+# 3D-Segmentation-of-X-Ray-Computed-Tomography-Images-In-Classification-of-Vertebral-Injuries
